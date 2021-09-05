@@ -7,7 +7,7 @@ namespace DayThree
     class Square : Rectangle
     {
 
-        string rashad;
+        double rashad;
         public Square(Point p1 , Point p2):base(p1,p2)
         {
            

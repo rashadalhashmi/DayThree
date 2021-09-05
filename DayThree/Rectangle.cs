@@ -9,9 +9,9 @@ namespace DayThree
 
         public  Point  p1;
         public  Point  p2;
-        Point  pc;
-        Line Width;
-        Line Hight;
+        Point  pc ;  // the point will calculte from p1 and p2 values
+        Line   Width;  
+        Line   Hight;
 
         public Rectangle(Point p1 , Point p2)
         {

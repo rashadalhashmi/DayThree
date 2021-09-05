@@ -1,8 +1,5 @@
 # DayThree
-# ITI Tranging Task 
-
-C# Lab – Day3: 
-
+#C# Lab – Day3:
 
 1.	Design a new Line Class that contains two  2D Points and implement the following
 
